@@ -26,7 +26,7 @@ Follow these steps to install and run the Reddit clone app on your local machine
 
 
 ## Test Ingress DNS for the app:
-- Test Ingress by typing this command: `curl http://domain.com/test`
+- Test Ingress by typing this command: `curl http://reddit.com/test`
 
 ## Contributing
 If you'd like to contribute to this project, please open an issue or submit a pull request.
