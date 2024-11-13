@@ -10,6 +10,7 @@ Before you begin, you should have the following tools installed on your local ma
 - Git
 
 You can install Prerequisites by doing this steps. [click here & complete all steps one by one]().
+Read this blog: https://medium.com/@umairshaficse/project-4-devops-3647fbd24fde
 
 
 ## Installation
